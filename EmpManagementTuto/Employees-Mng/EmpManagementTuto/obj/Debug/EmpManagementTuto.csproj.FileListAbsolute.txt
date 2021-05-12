@@ -1,0 +1,48 @@
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe.config
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\bin\Debug\EmpManagementTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\bin\Debug\Guna.UI2.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Employee.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Home.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Login.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Properties.Resources.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Splash.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.GenerateResource.Cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.ViewEmployee.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Salary.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe.config
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\bin\Debug\EmpManagementTuto.pdb
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.csprojAssemblyReference.cache
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Employee.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Home.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Login.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Properties.Resources.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Salary.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.Splash.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.ViewEmployee.resources
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.GenerateResource.cache
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CoreCompileInputs.cache
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CopyComplete
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.exe
+C:\Employees-Mng\EmpManagementTuto\EmpManagementTuto\EmpManagementTuto\obj\Debug\EmpManagementTuto.pdb
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe.config
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\bin\Debug\EmpManagementTuto.exe
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\bin\Debug\EmpManagementTuto.pdb
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.csprojAssemblyReference.cache
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.Employee.resources
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.Home.resources
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.Login.resources
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.Properties.Resources.resources
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.Salary.resources
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.Splash.resources
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.ViewEmployee.resources
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.GenerateResource.cache
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CoreCompileInputs.cache
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.csproj.CopyComplete
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.exe
+C:\Employees-Mng\EmpManagementTuto\Employees-Mng\EmpManagementTuto\obj\Debug\EmpManagementTuto.pdb
